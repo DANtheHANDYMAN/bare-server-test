@@ -1,0 +1,24 @@
+{
+  "name": "bare-server-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DANtheHANDYMAN/bare-server-test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DANtheHANDYMAN/bare-server-test/issues"
+  },
+  "homepage": "https://github.com/DANtheHANDYMAN/bare-server-test#readme",
+  "dependencies": {
+    "@tomphttp/bare-client": "^1.0.5",
+    "@tomphttp/bare-server-node": "^1.0.4-deps1"
+  }
+}
