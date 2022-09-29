@@ -9,16 +9,17 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/DANtheHANDYMAN/bare-server-test.git"
+    "url": "git+https://github.com/DANtheHANDYMAN/uv-test-now.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/DANtheHANDYMAN/bare-server-test/issues"
+    "url": "https://github.com/DANtheHANDYMAN/uv-test-now/issues"
   },
-  "homepage": "https://github.com/DANtheHANDYMAN/bare-server-test#readme",
+  "homepage": "https://github.com/DANtheHANDYMAN/uv-test-now#readme",
   "dependencies": {
     "@tomphttp/bare-client": "^1.0.5",
     "@tomphttp/bare-server-node": "^1.0.4-deps1"
-  }
+  },
+  "devDependencies": {}
 }
