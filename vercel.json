@@ -1,6 +1,6 @@
 {
    "version": 2,
-   "name": "music-album",
+   "name": "bare-server-test-vercel-2",
    "builds": [
       { "src": "index.js", "use": "@vercel/node" }
    ],
