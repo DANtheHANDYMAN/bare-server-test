@@ -1,10 +1,10 @@
-// (async() => {
-//   await import('./index.mjs');
-//   // await import("./static/users_test.js");
-// })();
+(async() => {
+  await import('./index.mjs');
+  // await import("./static/users_test.js");
+})();
 
 
-// // ! https://andrewbaisden.medium.com/how-to-deploy-a-node-express-app-to-vercel-6fa567a041e2
+// ! https://andrewbaisden.medium.com/how-to-deploy-a-node-express-app-to-vercel-6fa567a041e2
 
 
 
@@ -20,11 +20,11 @@
 //   console.log(`Example app listening on port ${port}`);
 // });
 
-var http = require("http");
+// var http = require("http");
 
-http
-  .createServer(function (req, res) {
-    res.writeHead(200, { "Content-Type": "text/html" });
-    res.end("Hello World!");
-  })
-  .listen(8080);
+// http
+//   .createServer(function (req, res) {
+//     res.writeHead(200, { "Content-Type": "text/html" });
+//     res.end("Hello World!");
+//   })
+//   .listen(8080);
