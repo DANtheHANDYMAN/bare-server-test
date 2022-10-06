@@ -5,7 +5,10 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node ."
+    "start": "node .",
+    "build": "node .",
+    "vercel-build": "node ."
+
   },
   "repository": {
     "type": "git",
